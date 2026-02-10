@@ -1,0 +1,12 @@
+FIGURE 2 FINGERPRINT
+CSV used: /content/drive/MyDrive/COLAB_FILES/251022_SRAG_DATA/P_FIG2_VALIDATION_USED.csv
+CSV mtime: 2026-02-02 23:17:36
+CSV sha256[:16]: 360826ee0092d66c
+N finite: 116
+Tuned Pearson r=0.491728, p=2.077494e-08
+Blind Pearson r=0.118477, p=2.052702e-01
+Tuned Spearman rho=0.534917, p=6.186229e-10
+Blind Spearman rho=0.058186, p=5.349782e-01
+Perm tuned p=0.000100, null(mu=-0.000555, sig=0.092779)
+Perm blind p=0.203980, null(mu=0.000893, sig=0.093056)
+Ghost line (tuned fit): m=0.335425, b=-0.017033

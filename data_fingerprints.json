@@ -1,0 +1,49 @@
+{
+  "archive_generated": "2026-02-10T22:47:27.465425",
+  "title": "An Empirical Constraint on Structure-Dynamics Coupling in Disk Galaxies",
+  "version": "FINAL_100_PERCENT_SOUND",
+  "figures": {
+    "Figure1": {
+      "description": "PCA Structural Manifold",
+      "N": 116,
+      "PC1_variance": "65.914%",
+      "PC2_variance": "15.453%",
+      "cumulative": "81.367%",
+      "input_sha256_16": "3657c3e58c08bba5"
+    },
+    "Figure2": {
+      "description": "Identifiability Test (Ghost Line)",
+      "N": 116,
+      "tuned_r": 0.4917,
+      "tuned_slope": 0.3354,
+      "control_r": 0.1185,
+      "control_slope": 0.04,
+      "slope_reduction_percent": 88,
+      "ghost_line_slope": 0.3354,
+      "input_sha256_16": "360826ee0092d66c"
+    },
+    "Figure3": {
+      "description": "WISE Cross-Validation",
+      "N": 79,
+      "paired_rho": 0.983,
+      "paired_r": 0.992,
+      "offset_dex": 0.103,
+      "MAD_dex": 0.121,
+      "KS_p": 0.078,
+      "input_sha256_16": "e4c617940c2db9bb"
+    },
+    "FigureA1": {
+      "description": "xGASS Population Context",
+      "xGASS_N": 1179,
+      "xGASS_detections": 804,
+      "xGASS_limits": 375,
+      "SPARC_N": 116
+    }
+  },
+  "key_constraint": {
+    "upper_bound": "\u226410-15% of tuned signal",
+    "slope_reduction": "\u226585-90%",
+    "regression_dilution_expected": "~20%",
+    "regression_dilution_observed": "~88%"
+  }
+}

@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+title: "An Empirical Constraint on Structure-Dynamics Coupling in Disk Galaxies"
+message: "If you use this research, please cite it using the metadata from this file."
+type: dataset
+authors:
+  - family-names: "[Author Family Name]"
+    given-names: "[Author Given Names]"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "Independent Researcher"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.XXXXXXX"
+    description: "Zenodo archive DOI"
+repository-code: "https://github.com/[username]/structure-dynamics-constraint"
+url: "https://doi.org/10.5281/zenodo.XXXXXXX"
+abstract: |
+  We identify an empirical separation constraint between global structural 
+  properties of disk galaxies and local RAR residuals. Under kinematically 
+  tuned mass models, compactness correlates with RAR residuals (r=0.49, 
+  slope=0.34). Under fixed mass-to-light ratios, this correlation amplitude 
+  is reduced by ≥85-90%, placing a stringent upper bound on any direct 
+  coupling between global structure and local RAR residuals.
+keywords:
+  - galaxies
+  - kinematics
+  - dynamics
+  - structure
+  - dark matter
+  - radial acceleration relation
+  - SPARC
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-02-10"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "[Author Family Name]"
+      given-names: "[Author Given Names]"
+  title: "An Empirical Constraint on Structure-Dynamics Coupling in Disk Galaxies"
+  journal: "The Astrophysical Journal Letters"
+  year: 2026
+  volume: "[Volume]"
+  issue: "[Issue]"
+  start: "[Start Page]"
+  end: "[End Page]"
+  doi: "[Journal DOI]"

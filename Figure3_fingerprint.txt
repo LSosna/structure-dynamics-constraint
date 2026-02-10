@@ -1,0 +1,10 @@
+FIGURE 3 FINGERPRINT
+Matched CSV: /content/drive/MyDrive/WISE_matched_lambda_table.csv
+CSV sha256: e4c617940c2db9bb
+N=79
+KS D=0.202532
+KS p=0.078154
+Median dloglam(WISE-SPARC)=0.102863 dex
+MAD=0.120730 dex
+Pearson r=0.991994, p=5.831340e-71
+Spearman rho=0.983106, p=1.513147e-58

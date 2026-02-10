@@ -1,0 +1,9 @@
+FIGURE 1 FINGERPRINT
+Input CSV: /content/drive/MyDrive/COLAB_FILES/251229_SPARC_VIZIER_DATASET!/SPARC_Canonical123.csv
+CSV sha256: 3657c3e58c08bba5
+Selection: Q<=2, 30<i<80, finite features
+N=116
+PC1=65.914%
+PC2=15.453%
+Cumulative=81.367%
+Features: ['logMstar', 'logMHI', 'logL36', 'Reff_kpc', 'SBeff', 'Rdisk_kpc', 'SBdisk']

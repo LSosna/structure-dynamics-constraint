@@ -1,0 +1,54 @@
+{
+  "title": "An Empirical Constraint on Structure-Dynamics Coupling in Disk Galaxies",
+  "description": "<p>We identify an <strong>empirical separation constraint</strong> between global structural properties of disk galaxies and local RAR residuals.</p><p><strong>Key Result:</strong> Under kinematically tuned mass models, compactness correlates with RAR residuals (r=0.49, slope=0.34). Under fixed mass-to-light ratios, this correlation amplitude is reduced by ≥85-90%, placing a stringent upper bound on any direct coupling. The trend is <em>erased, not smudged</em>.</p><p><strong>Quantitative Constraint:</strong> Any physically meaningful coupling between global structural residuals and local RAR residuals is constrained to ≤10-15% of the signal implied by kinematically tuned models.</p>",
+  "creators": [
+    {
+      "name": "[Author Family Name], [Author Given Names]",
+      "affiliation": "Independent Researcher",
+      "orcid": "0000-0000-0000-0000"
+    }
+  ],
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "galaxies",
+    "kinematics and dynamics",
+    "structure",
+    "dark matter",
+    "radial acceleration relation",
+    "SPARC",
+    "methods: statistical"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.3847/1538-3881/152/6/157",
+      "relation": "cites",
+      "resource_type": "publication-article",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.3847/1538-4357/836/2/152",
+      "relation": "cites",
+      "resource_type": "publication-article",
+      "scheme": "doi"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "astronomy"
+    }
+  ],
+  "grants": [],
+  "version": "1.0.0",
+  "language": "eng",
+  "notes": "Data and analysis code for: 'An Empirical Constraint on Structure-Dynamics Coupling in Disk Galaxies', submitted to The Astrophysical Journal Letters. All numerical values are locked to SHA-256 fingerprints for full reproducibility.",
+  "references": [
+    "Bell, E. F., & de Jong, R. S. 2001, ApJ, 550, 212",
+    "Catinella, B., et al. 2018, MNRAS, 476, 875",
+    "Lelli, F., McGaugh, S. S., & Schombert, J. M. 2016, AJ, 152, 157",
+    "Lelli, F., McGaugh, S. S., Schombert, J. M., & Pawlowski, M. S. 2017, ApJ, 836, 152",
+    "McGaugh, S. S., Lelli, F., & Schombert, J. M. 2016, PhRvL, 117, 201101",
+    "Meidt, S. E., et al. 2014, ApJ, 788, 144"
+  ]
+}

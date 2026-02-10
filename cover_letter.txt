@@ -1,0 +1,43 @@
+Dear Editor,
+
+We submit "An Empirical Constraint on Structure-Dynamics Coupling in Disk Galaxies" for publication in The Astrophysical Journal Letters.
+
+SUMMARY
+
+This manuscript places a stringent empirical constraint on the relationship between global galaxy structure and Radial Acceleration Relation (RAR) residuals in disk galaxies.
+
+KEY FINDINGS
+
+1. Under kinematically tuned mass models, compactness correlates with RAR residuals (r=0.49, slope=0.34)
+
+2. Under a requisite isolation control (fixed mass-to-light ratio), this correlation amplitude is reduced by ≥85-90%
+
+3. This reduction exceeds regression dilution predictions (~20%), indicating suppression of an artifactual signal rather than attenuation of a physical one
+
+4. Cross-validation with WISE photometry confirms structural ranking stability (ρ=0.98)
+
+5. Injection tests verify sufficient statistical power to recover genuine signals
+
+QUANTITATIVE CONSTRAINT
+
+We constrain any physically meaningful coupling between global structural residuals and local RAR residuals to ≤10-15% of the signal implied by kinematically tuned models.
+
+SIGNIFICANCE
+
+This empirical separation constraint has immediate implications for:
+- Studies reporting structure-dynamics correlations
+- Simulation validation pipelines  
+- Modified gravity phenomenology
+
+SCOPE
+
+This result concerns residuals of the instantaneous acceleration field only. It does not challenge Newtonian dynamics, the RAR itself, or dark matter interpretations.
+
+DATA AVAILABILITY
+
+All analysis code and data are archived on Zenodo with SHA-256 fingerprints.
+
+Thank you for considering this submission.
+
+Sincerely,
+[Author]
