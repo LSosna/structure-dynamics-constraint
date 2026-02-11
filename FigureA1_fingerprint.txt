@@ -1,0 +1,56 @@
+================================================================================
+FIGURE A1 FINGERPRINT: Population Context (xGASS Overlay)
+================================================================================
+
+Generated: 2026-02-10
+Purpose: Demonstrate SPARC sample is representative of star-forming disk population
+
+--------------------------------------------------------------------------------
+xGASS SAMPLE STATISTICS
+--------------------------------------------------------------------------------
+Source: Catinella et al. (2018), MNRAS, 476, 875
+Selection: HIconf_flag = 0 (unconfused H I sources only)
+
+Total N:              1179
+H I Detections:       804  (HIsrc < 4)
+Upper Limits:         375  (HIsrc = 4)
+Detection Fraction:   68.2%
+
+Clean sources used:   676  (HIconf_flag = 0)
+
+--------------------------------------------------------------------------------
+SPARC SAMPLE OVERLAY
+--------------------------------------------------------------------------------
+Source: Lelli et al. (2016), AJ, 152, 157
+Selection: Q ≤ 2, 30° < i < 80°
+
+SPARC N:              116
+
+--------------------------------------------------------------------------------
+POPULATION CONTEXT VERIFICATION
+--------------------------------------------------------------------------------
+SPARC galaxies occupy the gas-rich, star-forming locus of the 
+log(M_HI/M_*) vs log(M_*) parameter space.
+
+Key observation: SPARC sample is NOT a pathological subset.
+The quality cuts do not isolate an anomalous region of parameter space.
+
+--------------------------------------------------------------------------------
+VISUAL ENCODING
+--------------------------------------------------------------------------------
+xGASS Detections:     Grey circles
+xGASS Upper Limits:   Grey downward triangles (5σ)
+SPARC Galaxies:       Blue stars
+
+--------------------------------------------------------------------------------
+NOTES
+--------------------------------------------------------------------------------
+- Including potentially confused H I sources (HIconf_flag ≠ 0) does not 
+  alter the qualitative distribution
+- This figure demonstrates population representativeness, not statistical 
+  agreement
+- The SPARC sample tracks the standard star-forming main sequence
+
+================================================================================
+END FINGERPRINT
+================================================================================
