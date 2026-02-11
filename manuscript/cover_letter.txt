@@ -1,6 +1,6 @@
 Dear Editor,
 
-We submit "An Empirical Constraint on Structure-Dynamics Coupling in Disk Galaxies" for publication in The Astrophysical Journal Letters.
+We submit "An Empirical Constraint on Structure-Dynamics Coupling in Disk Galaxies" for publication (This is a reproducibility package).
 
 SUMMARY
 
@@ -35,9 +35,8 @@ This result concerns residuals of the instantaneous acceleration field only. It 
 
 DATA AVAILABILITY
 
-All analysis code and data are archived on Zenodo with SHA-256 fingerprints.
+All analysis code and data are archived on Zenodo (https://doi.org/10.5281/zenodo.18603520) with SHA-256 fingerprints.
 
 Thank you for considering this submission.
 
-Sincerely,
-[Author]
+Sincerely, LS
