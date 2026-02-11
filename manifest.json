@@ -1,0 +1,27 @@
+{
+  "algorithm": "sha256",
+  "generated_utc": "2026-02-11T00:15:45Z",
+  "root": "/content/drive/MyDrive/COLAB_FILES/251229_SPARC_VIZIER_DATASET!",
+  "files": [
+    {
+      "path": "SPARC_Canonical123.csv",
+      "sha256": "3657c3e58c08bba520878b7035470b089166404c35e395cb37b4dc2c55861c5a"
+    },
+    {
+      "path": "wise_ii.table1.txt",
+      "sha256": "b82dc55e93ea6bc2db6ff47556c8d5c307edb2240709d93adbe65af2706f482a"
+    },
+    {
+      "path": "P_FIG2_VALIDATION.csv",
+      "sha256": "ce62cbb8162b33d6595270604df128f480ca36da45afea6b3d495a00543b5a44"
+    },
+    {
+      "path": "xGASS_representative_clean_minimal.csv",
+      "sha256": "3e946792d8dc8ca1d36fb3c0ed998227cf45e51c4ce54421a493acb1ad45873f"
+    },
+    {
+      "path": "xGASS_representative_sample.fits",
+      "sha256": "2b7ba7fc6202f6879fdfcce76f8f3d8fcf3d2effd677747275212c382be3deb4"
+    }
+  ]
+}
