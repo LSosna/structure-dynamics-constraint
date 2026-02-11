@@ -1,10 +1,10 @@
 # An Empirical Constraint on Structure-Dynamics Coupling in Disk Galaxies
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.CONCEPTDOI.svg)](https://doi.org/10.5281/zenodo.CONCEPTDOI)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![ApJ Letters](https://img.shields.io/badge/ApJ%20Letters-Submitted-blue.svg)]()
 
-Zenodo DOI: pending (auto-generated from GitHub release).
+Zenodo DOI: https://doi.org/10.5281/zenodo.18603520 
 
 **Author:** [Author Name]  
 **Submitted to:** The Astrophysical Journal Letters  
